@@ -11,6 +11,8 @@ This is a Flutter Wallet App assignment project for a Flutter internship. The ap
 - Airdrop feature
 - Wallet activity tabs
 
+
+
 ## Installation
 
 1. Clone the repository:
