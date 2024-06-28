@@ -11,6 +11,31 @@ This is a Flutter Wallet App assignment project for a Flutter internship. The ap
 - Airdrop feature
 - Wallet activity tabs
 
+## Screenshots
+
+### Login Screen:                                                                      
+<img src="screenshots/s1.png" alt="Screenshot 1" width="300" height = "650"/>,
+
+ ### Home Screen:
+<img src="screenshots/s2.png" alt="Home Screen" width="300" height = "650"/>
+
+ ### Transfer Screen:
+<img src="screenshots/s3.png" alt="Screenshot 1" width="300" height = "650"/>
+
+ ### Transfer Failed:
+<img src="screenshots/s4.png" alt="Screenshot 1" width="300" height = "650"/>
+
+ ### Request Airdrop:
+<img src="screenshots/s5.png" alt="Screenshot 1" width="300" height = "650"/>
+
+### Profile Screen:
+<img src="screenshots/s6.png" alt="Screenshot 1" width="300" height = "650"/>
+
+### Logout Screen:
+<img src="screenshots/s7.png" alt="Screenshot 1" width="300" height = "650"/>
+
+
+
 ## Installation
 
 1. Clone the repository:
