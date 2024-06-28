@@ -15,4 +15,4 @@ This is a Flutter Wallet App assignment project for a Flutter internship. The ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhay-Prabhu/flutter-wallet-app.git
+   (https://github.com/Abhay-Prabhu/wallet-app)
