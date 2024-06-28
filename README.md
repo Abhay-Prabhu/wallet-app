@@ -1,20 +1,35 @@
-<<<<<<< HEAD
-# flutter-wallet-app
-=======
-# wallet_app
+# Flutter Wallet App
 
-A new Flutter project.
+This is a Flutter Wallet App assignment project for a Flutter internship. The app provides wallet functionalities such as balance display, send/swap buttons, and tabs for tokens and activity.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User login and profile management
+- Wallet balance display
+- Create wallet functionality
+- Transfer balance functionality
+- Airdrop feature
+- Wallet activity tabs
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+   ```bash
+   (https://github.com/Abhay-Prabhu/wallet-app)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> master
+2. Navigate to the project directory:
+   ```bash
+   cd flutter-wallet-app
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+
+4. Run the app:
+   ```bash
+   flutter run
+
+Follow the on-screen instructions to launch the app on your preferred device or emulator.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
